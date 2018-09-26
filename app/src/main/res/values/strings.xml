@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Play List</string>
+    <string name="playList">Play List</string>
+    <string name="activity_desc">Activity Desc</string>
+    <string name="your_list">Play List</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="albumList">Albums</string>
+    <string name="top_10">Top 10</string>
+    <string name="song_name">Sink O\'Swim - Apple Gule</string>
+
+</resources>
